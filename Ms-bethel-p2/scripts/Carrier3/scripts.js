@@ -99,35 +99,45 @@ function change() {
 
     if (position1Id === "Call Center Director") {
 
-        hoursId.value = "62.5"
+        hoursId.value = "150"
 
-        daysId.value = "500"
+        daysId.value = "1200"
 
-        weeksId.value = "3,000"
+        weeksId.value = "7,200"
 
-        monthsId.value = "12,000"
+        monthsId.value = "31,200"
 
     }else if (position1Id === "Call Center Manager") {
 
-        hoursId.value = "100"
+        hoursId.value = "137.5"
 
-        daysId.value = "800"
+        daysId.value = "1100"
 
-        weeksId.value = "4,800"
+        weeksId.value = "6,600"
 
-        monthsId.value = "20,800"
+        monthsId.value = "28,600"
 
     }else if (position1Id === "Team Leader / Supervisor") {
 
-        hoursId.value = "81.25"
+        hoursId.value = "131.2"
 
-        daysId.value = "650"
+        daysId.value = "1050"
 
-        weeksId.value = "3,900"
+        weeksId.value = "6,300"
 
-        monthsId.value = "16,900"
+        monthsId.value = "27,300"
 
     } else if (position2Id === "Senior Call Center Representative") {
+
+        hoursId.value = "87.5"
+
+        daysId.value = "700"
+
+        weeksId.value = "4,200"
+
+        monthsId.value = "18,200"
+
+    } else if (position2Id === "Call Center Representative / Agent") {
 
         hoursId.value = "75"
 
@@ -136,16 +146,6 @@ function change() {
         weeksId.value = "3,600"
 
         monthsId.value = "15,600"
-
-    } else if (position2Id === "Call Center Representative / Agent") {
-
-        hoursId.value = "62.5"
-
-        daysId.value = "500"
-
-        weeksId.value = "3,000"
-
-        monthsId.value = "13,000"
 
     }else if (position2Id === "Call Center Trainee") {
 
@@ -159,23 +159,23 @@ function change() {
 
     }else if (position3Id === "Quality Assurance (QA) Specialist") {
 
-        hoursId.value = "81.25"
+        hoursId.value = "70"
 
-        daysId.value = "650"
+        daysId.value = "560"
 
-        weeksId.value = "3,900"
+        weeksId.value = "3,360"
 
-        monthsId.value = "16,900"
+        monthsId.value = "14,560"
 
     }else if (position3Id === "Workforce Management (WFM) Analyst") {
 
-        hoursId.value = "86.25"
+        hoursId.value = "72.5"
 
-        daysId.value = "690"
+        daysId.value = "580"
 
-        weeksId.value = "4,140"
+        weeksId.value = "3,480"
 
-        monthsId.value = "17,940"
+        monthsId.value = "15,080"
 
     }else {
 
