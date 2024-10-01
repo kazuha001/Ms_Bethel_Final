@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Executive and Management Level</title>
+    <title>Operational Level</title>
 
     <!-- CSS links -->
     <link rel="stylesheet" href="css/styles.css">
@@ -15,7 +15,7 @@
     <div class="container">
         <div class="carrier">
             <div class="carrier4">
-                <h1>Executive and Management Level PayRoll</h1>
+                <h1>Operational Level PayRoll</h1>
                 
                 <div class="search_bar">
                     <form method="POST" action="">
