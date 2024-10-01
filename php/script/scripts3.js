@@ -8,7 +8,9 @@ document.getElementById("destroy").addEventListener("submit", function(event){
             method: 'POST',
             body: formData
         })
-
+        
+        alert("Sucessfully Deleted!!!")
         window.location.reload()
 
+        
 })

@@ -5,7 +5,6 @@
     justify-content: center;
     align-items: center;
     flex-flow: column;
-    background-color: #ADD8E6;
 }
 .title {
     animation: fadeinT 1s 1s forwards;

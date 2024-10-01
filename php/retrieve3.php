@@ -18,7 +18,7 @@
     <div class="container">
         <div class="carrier">
             <div class="carrier4">
-                <h1>Support Level PayRoll</h1>
+                <h1><u>Support Level PayRoll</u></h1>
                 
                 <div class="search_bar">
                     <form method="POST" action="search3.php">
@@ -83,7 +83,7 @@
 
                                 echo '   
                           
-                           <div>
+                           <div class="labelsb">
                                <h2>Gross Payment</h2>
                                    <label for="days">Daily wage : ' . $row["days"] . ' pesos</label>
                                    <label for="pays">Hourly wage: ' . $row["hours"] . ' pesos</label>
@@ -103,7 +103,7 @@
                             }
 
                         }else {
-                            echo 'No Records';
+                            echo '<p>No Records</p>';
                         }
                         
                         $sql->close();

@@ -5,7 +5,6 @@
     justify-content: center;
     align-items: center;
     flex-flow: column;
-    background-color: #A7D1E5;
     position: absolute;
     transition: 1s ease-in-out;
 }

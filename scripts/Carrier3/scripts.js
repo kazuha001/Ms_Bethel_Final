@@ -101,7 +101,7 @@ function change() {
 
         hoursId.value = "150"
 
-        daysId.value = "1200"
+        daysId.value = "1,200"
 
         weeksId.value = "7,200"
 
@@ -111,7 +111,7 @@ function change() {
 
         hoursId.value = "137.5"
 
-        daysId.value = "1100"
+        daysId.value = "1,100"
 
         weeksId.value = "6,600"
 
@@ -121,7 +121,7 @@ function change() {
 
         hoursId.value = "131.2"
 
-        daysId.value = "1050"
+        daysId.value = "1,050"
 
         weeksId.value = "6,300"
 

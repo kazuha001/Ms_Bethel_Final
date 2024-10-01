@@ -104,7 +104,7 @@
 
                         }else {
 
-                            echo 'No Records';
+                            echo '<p>No Records About this ID</p>';
 
                         }
                         
