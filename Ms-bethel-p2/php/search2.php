@@ -85,10 +85,10 @@
                           
                            <div>
                                <h2>Gross Payment</h2>
-                                   <label for="days">Payment per Days: ' . $row["days"] . ' pesos</label>
-                                   <label for="pays">Payment per 8 Hours: ' . $row["hours"] . ' pesos</label>
-                                   <label for="pays">Payment per Weeks: ' . $row["weeks"] . ' pesos</label>
-                                   <label for="pays">Payment per Monthly: ' . $row["months"] . ' pesos</label>
+                                    <label for="days">Daily wage : ' . $row["days"] . ' pesos</label>
+                                   <label for="pays">Hourly wage: ' . $row["hours"] . ' pesos</label>
+                                   <label for="pays">Monhtly wage: ' . $row["weeks"] . ' pesos</label>
+                                   <label for="pays">Salary: ' . $row["months"] . ' pesos</label>
                                    <label for="pays">Employers ID: ' . $row["id"] . ' </label>
 
                                    <input type="hidden" name="destroy" value="' . $row["id"] . '" required>
