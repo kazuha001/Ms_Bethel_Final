@@ -17,14 +17,14 @@
     justify-content: center;
     align-items: center;
     position: relative;
-    
+    background-image: url("Carrier3/pic4.png");
+    background-size: cover;
+    background-position: center;
 }
 body {
     background-color: #A7D1E5;
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url("Carrier3/pic4.png");
-    background-size: cover;
-    background-position: center;
+    
 }
